@@ -2,6 +2,7 @@
   <div id="app">
     <router-link to="/">dialog</router-link>
     <router-link to="/select">select</router-link>
+    <router-link to="/countDown">countDown</router-link>
     <router-view />
   </div>
 </template>
